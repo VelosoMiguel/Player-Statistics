@@ -4,7 +4,7 @@ A simple desktop application built with Python and Tkinter to record and display
 
 ## 📸 Preview
 
-> A clean GUI window where you can input player data and instantly see the results listed below.
+![Player Statistics App](screenshot.png)
 
 ## 🚀 Features
 

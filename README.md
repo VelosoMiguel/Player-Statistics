@@ -1,4 +1,4 @@
-# 🏀 Player Statistics Tracker
+# 🏐 Player Statistics Tracker
 
 A simple desktop application built with Python and Tkinter to record and display player statistics in real time.
 

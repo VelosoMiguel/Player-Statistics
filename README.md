@@ -50,8 +50,8 @@ A simple desktop application built with Python and Tkinter to record and display
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+Miguel Veloso  
+[GitHub](https://github.com/VelosoMiguel) · [LinkedIn](https://www.linkedin.com/in/miguel-veloso-91355b372/)
 
 ---
 
